@@ -1,0 +1,8 @@
+name: RandomBox
+version: '${project.version}'
+main: org.plugin.randombox.RandomBox
+api-version: '1.19'
+commands:
+  giveitems:
+    description: 테스트
+    usage: /<command>
